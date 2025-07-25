@@ -21,7 +21,7 @@ By leveraging IoT and cloud technologies, this solution provides **real-time dat
 
 ---
 
-## 🛠️ Hardware Components
+## Hardware Components
 | Component              | Description                                                                 |
 |------------------------|-----------------------------------------------------------------------------|
 | Arduino UNO            | Microcontroller board for processing sensor data and triggering actuators. |
